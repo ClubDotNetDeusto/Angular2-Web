@@ -1,0 +1,42 @@
+<div>
+    <button class='btn btn-primary'
+                                    (click)='changeOrder()'>
+                                    {{order ? 'Name' : 'Company'}} Order
+    </button>
+    <div class='table-responsive'>
+                <table class='table'
+                    *ngIf='speaker && speaker.length'>
+                    <thead>
+                        <tr>
+                            <th class="col-md-2">  
+                                Image
+                            </th>
+                            <th  class="col-md-2">
+                                Name
+                            </th>
+                            <th class="col-md-6">Description</th>
+                            <th>Company</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor='let s of speaker'>
+                            <td class="col-md-2">
+                                <a href="{{s.Blog}}">
+                                    <img *ngIf='!avatar' class="img-responsive" [src]="s.Image"/>
+                                    <img *ngIf='avatar' class="img-responsive" [src]="s.Avatar"/>
+
+                                </a>
+                            </td>
+                            <td class="col-md-2">
+                                <a href="http://twitter.com/{{ s.Twitter }}">{{s.Name}}</a>
+                            </td>
+                            
+                            <td  class="col-md-6">
+                                    {{ s.Description }}
+                            </td>
+                            <td><a href="{{s.Website}}">{{ s.Company }}</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+    </div>
+</div>

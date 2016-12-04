@@ -1,0 +1,171 @@
+[
+
+      {
+        "Name": "Matthew Soucoup",
+        "Description": "Matthew is a Xamarin MVP and Certified Xamarin Developer from Madison, WI. He founded his company Code Mill Technologies and started the Madison Mobile .Net Developers Group.  Matt regularly speaks on .Net and Xamarin development at user groups, code camps and conferences throughout the Midwest. Matt gardens hot peppers, rides bikes, and loves Wisconsin micro-brews and cheese.",
+        "Image": "http://i.imgur.com/y4dzyT3.jpg",
+        "Title": "Architect",
+        "Company": "Code Mill Technologies",
+        "Website": "https://codemilltech.com",
+        "Blog": "https://codemilltech.com/",
+        "Twitter": "codemillmatt",
+        "Email": "MSoucoup@newco.com",
+        "Avatar": "http://i.imgur.com/RTDt4nb.jpg"
+      },
+      {
+        "Name": "Star Simpson",
+        "Description": "A robot-builder from an early age, Star has explored robotics and automation in electronics and software from MIT to Shenzhen. She previously worked on some of the first robots to demonstrate human emotional expressiveness in Cynthia Brezeal’s personal robotics lab. Her interest carried her into the aerial robotics world, exploring drone-based delivery through TacoCopter many years ahead of anyone else. Now residing in SF, she’s looking for ways that tech can advance and extend human capability.",
+        "Image": "http://i.imgur.com/mqRwv84.jpg",
+        "Title": "Consultant",
+        "Company": "",
+        "Website": "N/A",
+        "Blog": "N/A",
+        "Twitter": "starsandrobots",
+        "Email": "SSimpson@newco.com",
+        "Avatar": "http://i.imgur.com/BlC5zlJ.jpg"
+      },
+      {
+        "Name": "Sam Tulimat ",
+        "Description": "Sam works on the Microsoft Intune team at Microsoft’s Boston office. He developed a love for technology when he started an internet Café in his home country of Syria. Later on he decided to bring his love for Entrepreneurship and tech to Microsoft by focusing on the fast evolving technology for app management and data protection in the enterprise.",
+        "Image": "http://i.imgur.com/nDyflPa.jpg",
+        "Title": "Enterprise Mobility Program Manager",
+        "Company": "Microsoft",
+        "Website": "http://microsoft.com",
+        "Blog": "N/A",
+        "Twitter": "Samtulim",
+        "Email": "STulimat@newco.com",
+        "Avatar": "http://i.imgur.com/ywPLGwp.jpg"
+      },
+      {
+        "Name": "Peter Friese",
+        "Description": "Peter is a developer advocate at Google where he is responsible for Google's relationship with Xamarin. He's the author of the first ever Android Watchface written in C# and an avid collector of smart watches. He likes a good cup of English breakfast tea (milk, no sugar), any time of day.",
+        "Image": "http://i.imgur.com/MTn1vJ8.jpg",
+        "Title": "Developer Advocate",
+        "Company": "Google",
+        "Website": "http://google.com",
+        "Blog": "http://www.peterfriese.de",
+        "Twitter": "peterfriese",
+        "Email": "PFriese@newco.com",
+        "Avatar": "http://i.imgur.com/FKOslOv.jpg"
+      },
+      {
+        "Name": "Jonathan Dick",
+        "Description": "Jonathan Dick is developer who hails from The Great White North and has been slinging C# for mobile since it was born. A self-proclaimed expert on Push Notifications, Jonathan has published several Xamarin Components, and even helped write a book on Android C# programming. ",
+        "Image": "http://i.imgur.com/CvKs7dV.jpg",
+        "Company": "Xamarin",
+        "Website": "http://xamarin.com",
+        "Blog": "http://redth.codes",
+        "Twitter": "redth",
+        "Email": "JDick@newco.com",
+        "Avatar": "http://i.imgur.com/IrOo2aT.jpg"
+      },
+      {
+        "Name": "Martijn van Dijk",
+        "Description": "Martijn is a Xamarin consultant at Xablu, Xamarin MVP, contributor of MvvmCross, and creator of several Xamarin plugins.",
+        "Image": "http://i.imgur.com/xActFqO.jpg",
+        "Title": "Xamarin Consultant",
+        "Company": "Xablu",
+        "Website": "http://www.xablu.com",
+        "Blog": "https://github.com/martijn00",
+        "Twitter": "mhvdijk",
+        "Email": "Mvandijk@newco.com",
+        "Avatar": "http://i.imgur.com/TInfNTf.jpg"
+      },
+      {
+        "Name": "Michael Stonis",
+        "Description": "Michael Stonis is a partner at Eight-Bot, a software consultancy in Chicago, where he focuses on mobile and integration solutions for enterprises using .NET. He loves mobile technology and how it has opened up our world in new and interesting ways that seemed like an impossibility just a few years ago. Outside of work, you will probably find him spending time with his family, brewing beer, or playing pinball.",
+        "Image": "http://i.imgur.com/y0kI3xo.jpg",
+        "Title": "President",
+        "Company": "EightBot",
+        "Website": "http://www.eightbot.com",
+        "Blog": "http://www.eightbot.com/author/michael-stonis",
+        "Twitter": "MichaelStonis",
+        "Email": "MStonis@newco.com",
+        "Avatar": "http://i.imgur.com/vJQw3kW.jpg"
+      },
+      {
+        "Name": "Kasey Uhlenhuth",
+        "Description": "Kasey Uhlenhuth is a program manager on the .NET Managed Languages team at Microsoft. She is currently working on modernizing the C# developer experience, but has also worked on C# scripting and the REPL. Before joining Microsoft, Kasey studied computer science and played varsity lacrosse at Harvard University. In her free time she can be found creating art, reading, or playing volleyball and ultimate frisbee.",
+        "Image": "http://i.imgur.com/E38jreN.jpg",
+        "Title": "Program Manager, .NET Managed Languages",
+        "Company": "Microsoft",
+        "Website": "http://microsoft.com",
+        "Blog": "N/A",
+        "Twitter": "Uhlenhuth",
+        "Email": "KUhlenhuth@newco.com",
+        "Avatar": "http://i.imgur.com/N35EeSW.jpg"
+      },
+      {
+        "Name": "Jason Smith",
+        "Description": "Jason Smith has been enthusiastically working on UI and front-end development for the past decade, touching almost every major UI toolkit in the process (don't worry, his hands are clean). At Xamarin he works on research and development projects. Jason's most recent endeavor at the company has him leading the Xamarin.Forms project to create a true cross-platform UI solution.",
+        "Image": "http://i.imgur.com/VKjZqlZ.jpg",
+        "Title": "Engineering Team Lead (Xamarin.Forms)",
+        "Company": "Xamarin",
+        "Website": "http://xamarin.com",
+        "Blog": "http://xfcomplete.net",
+        "Twitter": "jassmith87",
+        "Email": "JSmith@newco.com",
+        "Avatar": "http://i.imgur.com/JE5DJGV.jpg"
+      },
+      {
+        "Name": "Cliff Sentell",
+        "Description": "Cliff Sentell is co-founder and Chief Technology Officer for Compass Professional Health Services. A technology innovator, Cliff pioneered the development of the company’s groundbreaking healthcare decision support and pricing transparency platforms. Currently, his focus is on rich, context-aware mobile experiences that humanize healthcare for the 2+ million people who use Compass solutions.",
+        "Image": "http://i.imgur.com/1Ytl9qO.jpg",
+        "Title": "CTO",
+        "Company": "Compass Professional Health Services ",
+        "Website": "N/A",
+        "Blog": "N/A",
+        "Twitter": "N/A",
+        "Email": "CSentell@newco.com",
+        "Avatar": "http://i.imgur.com/e5LWsn4.jpg"
+      },
+      {
+        "Name": "Lori Lalonde",
+        "biography": "Lori Lalonde is an author, consultant, blogger, conference speaker, Microsoft MVP, Xamarin MVP & Certified Mobile Developer. She is a proud member of the Western Devs group, and serves as the User Group Leader of CTTDNUG, a .NET User Group in Kitchener, Ontario. You can follow her on Twitter @loriblalonde, check out her blog at solola.ca, and see what she's been up to with the other Western Devs at westerndevs.com.",
+        "Image": "http://i.imgur.com/QYmlfmB.jpg",
+        "Title": "Senior Consultant",
+        "Company": "ObjectSharp Consulting",
+        "Website": "N/A",
+        "Blog": "http://solola.ca",
+        "Twitter": "loriblalonde",
+        "Email": "LLalonde@newco.com",
+        "Avatar": "http://i.imgur.com/mpfSogm.jpg"
+      },
+      {
+        "Name": "Paul Betts",
+        "Description": "Paul is a developer at Slack who works on the Windows and Linux application. Previously he was at GitHub where he built the GitHub Desktop application on Windows, as well as the popular Xamarin libraries ReactiveUI, ModernHttpClient, and Akavache.",
+        "Image": "http://i.imgur.com/fQytI8I.jpg",
+        "Title": "Engineer",
+        "Company": "Slack",
+        "Website": "http://slack.com",
+        "Blog": "http://log.paulbetts.org",
+        "Twitter": "paulcbetts",
+        "Email": "PBetts@newco.com",
+        "Avatar": "http://i.imgur.com/jrEEQRe.jpg"
+      },
+      {
+        "Name": "Josh Clark",
+        "Description": "Josh Clark is the founder of Big Medium, a design agency specializing in connected devices, mobile experiences, and responsive web design. His clients include Samsung, Time Inc, TechCrunch, Entertainment Weekly, eBay, O’Reilly Media, and many others. Josh has written several books, including “Designing for Touch” (A Book Apart, 2015) and “Tapworthy: Designing Great iPhone Apps” (O’Reilly, 2010). He speaks around the world about what’s next for digital interfaces.\n",
+        "Image": "http://i.imgur.com/Ji9BWje.jpg",
+        "Title": "Founder",
+        "Company": "Big Medium",
+        "Website": "https://bigmedium.com",
+        "Blog": "https://bigmedium.com",
+        "Twitter": "bigmediumjosh",
+        "Email": "JClark@newco.com",
+        "Avatar": "http://i.imgur.com/zs7zuZl.jpg"
+      },
+      {
+        "Name": "Danny Strockis",
+        "Description": "Danny Strockis is a PM in the Microsoft identity services division.  His team is responsible for all developer related features of the Microsoft identity platform, including protocol design and SDK development across platforms.  Danny is a recent Xamarin enthusiast (both inside & outside of work) and is excited to share the work that Microsoft has done to support Xamarin developers on the Microsoft Cloud.",
+        "Image": "http://i.imgur.com/bzVfPpo.jpg",
+        "Title": "Program Manager, Microsoft Identity Developer Platform",
+        "Company": "Microsoft",
+        "Website": "http://microsoft.com",
+        "Blog": "N/A",
+        "Twitter": "dstrockis",
+        "Email": "DStrockis@newco.com",
+        "Avatar": "http://i.imgur.com/M8qnRPH.jpg"
+        }
+
+    ]
